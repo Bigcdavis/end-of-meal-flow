@@ -1,1 +1,2 @@
 - 2026-11-13: Thu Nov 12 missed calls (Outlook down) = 2 bookings per Gmail 'Background Information' alerts: Mark Kimble 3:00PM ET, Estella Zhou 9:15PM ET. Both assigned Brendan Smith. Need rebooking.
+- 2026-11-13: Week Nov 9-13 bookings (Gmail alerts, both pages checked): Tue Blake Toves 1:30PM; Wed Jimmy Kochisarli 10:30AM, Rob 11:00AM; Thu Mark Kimble 3:00PM, Estella Zhou 9:15PM; Fri chanse 6:00PM. Mon none. Krisp has no recordings Tue/Wed -> those 3 calls unconfirmed. chanse email bounced (iCloud inbox full) -> text instead.
