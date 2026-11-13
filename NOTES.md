@@ -1,0 +1,1 @@
+- 2026-11-13: Thu Nov 12 missed calls (Outlook down) = 2 bookings per Gmail 'Background Information' alerts: Mark Kimble 3:00PM ET, Estella Zhou 9:15PM ET. Both assigned Brendan Smith. Need rebooking.
