@@ -356,6 +356,30 @@ Text me back "send them" and I'll send you a few brands to look up yourself.
 
 ---
 
+## G12 — Want to see inside? (~35s, studio)
+
+**Script**
+
+Most platforms show you a slide deck. I'd rather show you the real thing.
+
+I'm Carson from Tessic. I've got a full walkthrough of the platform. It's the exact dashboard you'd log into.
+
+[INSERT: 3-4 second flashes: dashboard, price change, patient portal, order tracking]
+
+You'll see how you change a price yourself. What your patients see when they order. How every order gets sent to the best-priced pharmacy. And how patients track their own orders, so you're not answering "where's my medication" all day.
+
+It's all under your brand. Your patients never see our name.
+
+Text me "tour" and I'll send it over. Watch it before the call, and bring anything you want to see live.
+
+**SMS** (send after booking, or day 1)
+> Hey {first_name}, Carson from Tessic. Want to see the actual platform before your call? Text "tour" and I'll send the full walkthrough.
+
+**SMS** (when they reply "tour")
+> Here it is: {WALKTHROUGH_LINK}. Bring anything you want to see live on the call.
+
+---
+
 ## Compliance and sending notes
 - Only text leads who gave phone consent at booking. Honor STOP right away. Quiet hours are 9am-8pm in the lead's local time (sms skill, TCPA section).
 - If the number is on 10DLC or any platform, it needs A2P registration. Texts from Carson's own iPhone are 1:1 conversational, but a human still presses send on each one.
